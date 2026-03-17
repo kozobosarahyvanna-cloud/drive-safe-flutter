@@ -84,8 +84,8 @@ flutter build apk --release
 
 | Name | Role | GitHub |
 |------|------|--------|
-| Kozobo Sarah | Flutter/Dart Developer | [@kozobosarahyvanna-cloud](https://github.com/kozobosarahyvanna-cloud) |
-| Missa | Kotlin Developer | [@Missa6214](https://github.com/Missa6214) |
+| Kozobo Sarah Yvanna| Flutter/Dart Developer | [@kozobosarahyvanna-cloud](https://github.com/kozobosarahyvanna-cloud) |
+| Memadji Larissa| Kotlin Developer | [@Missa6214](https://github.com/Missa6214) |
 
 ---
 
