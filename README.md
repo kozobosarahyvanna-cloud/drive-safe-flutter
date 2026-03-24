@@ -95,3 +95,6 @@ flutter build apk --release
 Professor: **Engr. Daniel MOUNE**  
 Institution: **ICT University, Yaoundé, Cameroon**  
 Academic Year: **2025-2026**
+
+## Dernière mise à jour
+Export Excel, JSON et documentation ajoutés - Mars 2026
